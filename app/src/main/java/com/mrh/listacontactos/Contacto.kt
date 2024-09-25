@@ -5,5 +5,5 @@ data class Contacto (
     val nombre: String,
     val apellido: String,
     val sexo: String,
-    val imagen: String
+    val telefono: Int
 )
